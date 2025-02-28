@@ -1,0 +1,25 @@
+../../output/lv_evdev.o: \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\lv_evdev.c \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\lv_evdev.h \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\..\..\indev\lv_indev.h \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\..\..\indev\..\core\lv_group.h \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\..\..\indev\..\core\..\lv_conf_internal.h \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\..\..\indev\..\core\..\lv_conf_kconfig.h \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\..\..\indev\..\core\..\..\..\lv_conf.h \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\..\..\indev\..\core\..\misc\lv_types.h \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\..\..\indev\..\core\..\misc\..\lv_conf_internal.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stddef.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdbool.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\inttypes.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\limits.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdarg.h \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\..\..\indev\..\core\..\misc\lv_ll.h \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\..\..\indev\..\misc\lv_area.h \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\..\..\indev\..\core\..\misc\lv_math.h \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\..\..\indev\..\misc\lv_timer.h \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\..\..\indev\..\core\..\misc\..\tick\lv_tick.h \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\..\..\indev\..\core\..\misc\..\tick\..\lv_conf_internal.h \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\..\..\indev\..\core\..\misc\..\tick\..\misc\lv_types.h \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\..\..\indev\..\misc\lv_event.h \
+  ..\..\Middlewares\LVGL\lvgl\src\drivers\evdev\..\..\indev\..\core\..\misc\lv_array.h
